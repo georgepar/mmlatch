@@ -1,0 +1,3 @@
+[submodule "cmusdk"]
+	path = cmusdk
+	url = https://github.com/A2Zadeh/CMU-MultimodalSDK
