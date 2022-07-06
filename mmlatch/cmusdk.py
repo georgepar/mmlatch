@@ -436,6 +436,3 @@ if __name__ == "__main__":
         modalities=["audio", "text", "visual", "glove"],
         remove_pauses=True,
     )
-    import ipdb
-
-    ipdb.set_trace()
